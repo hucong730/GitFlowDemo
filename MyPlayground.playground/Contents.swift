@@ -9,3 +9,7 @@ func login() {
 }
 
 login()
+
+class Home {
+    
+}
