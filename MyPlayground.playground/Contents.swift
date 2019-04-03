@@ -11,5 +11,7 @@ func login() {
 login()
 
 class Home {
-    
+    func fixBug() {
+        
+    }
 }
